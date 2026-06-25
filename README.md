@@ -9,14 +9,23 @@
 
 ## Screenshots
 
-| | | |
-|---|---|---|
-| ![Onboarding — bounded reading](screenshots/onboarding_1_bounded_reading.jpeg) | ![Onboarding — multi-perspective](screenshots/onboarding_2_multi_perspective.jpeg) | ![Onboarding — offline PDF](screenshots/onboarding_3_offline_pdf.jpeg) |
-| Onboarding: 5-min bounded reading | Onboarding: 3-source comparison | Onboarding: offline-first PDF export |
-| ![Today — Deep Dives](screenshots/home_today_deep_dives.jpeg) | ![Editorial Analysis](screenshots/editorial_analysis.jpeg) | ![Bookmarks](screenshots/bookmarks.jpeg) |
-| Today's SAAR — Deep Dives / Daily Pulse | Editorial Analysis tab | Bookmarks |
-| ![Daily Quiz](screenshots/quiz_question.jpeg) | ![Settings — Standard Dark](screenshots/settings_dark.jpeg) | ![Settings — Sepia Paper](screenshots/settings_sepia.jpeg) |
-| Daily Quiz | Settings — Standard Dark theme | Settings — Sepia Paper theme |
+<table>
+<tr>
+<td align="center" width="33%"><img src="screenshots/onboarding_1_bounded_reading.jpeg" width="220"/><br/><sub>Onboarding: 5-min bounded reading</sub></td>
+<td align="center" width="33%"><img src="screenshots/onboarding_2_multi_perspective.jpeg" width="220"/><br/><sub>Onboarding: 3-source comparison</sub></td>
+<td align="center" width="33%"><img src="screenshots/onboarding_3_offline_pdf.jpeg" width="220"/><br/><sub>Onboarding: offline-first PDF export</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/home_today_deep_dives.jpeg" width="220"/><br/><sub>Today's SAAR — Deep Dives / Daily Pulse</sub></td>
+<td align="center"><img src="screenshots/editorial_analysis.jpeg" width="220"/><br/><sub>Editorial Analysis tab</sub></td>
+<td align="center"><img src="screenshots/bookmarks.jpeg" width="220"/><br/><sub>Bookmarks</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/quiz_question.jpeg" width="220"/><br/><sub>Daily Quiz</sub></td>
+<td align="center"><img src="screenshots/settings_dark.jpeg" width="220"/><br/><sub>Settings — Standard Dark theme</sub></td>
+<td align="center"><img src="screenshots/settings_sepia.jpeg" width="220"/><br/><sub>Settings — Sepia Paper theme</sub></td>
+</tr>
+</table>
 
 ---
 
