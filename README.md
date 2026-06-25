@@ -198,7 +198,3 @@ Listed here as product thinking, not as commitments:
 - Weekly/monthly retrospective view of quiz performance by category
 - Export digest history beyond the current day (multi-day PDF compilation)
 - Background (WorkManager-driven) news sync ahead of the daily notification, so content is already fresh when the user opens the app, instead of syncing on open
-
-## 10. License
-
-Personal/portfolio project. No license file included yet — open an issue if you want to use this and need clarification on terms.
